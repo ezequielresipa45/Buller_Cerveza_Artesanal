@@ -1,4 +1,4 @@
 # Buller_Cerveza_Artesanal
 Maquetado web cervecería Buller
 
-https://raw.githubusercontent.com/ezequielresipa45/Buller_Cerveza_Artesanal/bullet.png
+<img src="/Buller_Cerveza_Artesanal/bullet.png" alt="Buller Beer"/>
